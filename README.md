@@ -1,0 +1,1 @@
+This is my second Project within The Odin Project where I will be practicing new Css skills such as flexblox.
